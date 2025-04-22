@@ -26,12 +26,16 @@ In this course:
 14. Imitation Learning, Inverse RL
 15. Model-Based RL
 
-# Homework
-HW1: MDPs, planning, and D4RL
+# Homework & Grades
+HW1: MDPs, planning, and D4RL (12%)
 
-HW2: Policy optimization and policy gradient
+HW2: Policy optimization and policy gradient (11%)
 
-HW3: DPG, DDPG, TD3, TRPO, and PPO
+HW3: DPG, DDPG, TD3, TRPO, and PPO (12%)
 
-Theory project: [Summary Note of **Reinforcement Learning with Human Feedback: Learning Dynamic
- Choices via Pessimism**](https://hackmd.io/JItAOqV_TtSaxEE63rGnZA)
+Theory project: [**Reinforcement Learning with Human Feedback: Learning Dynamic
+ Choices via Pessimism** Summary Note](https://hackmd.io/JItAOqV_TtSaxEE63rGnZA) (30%)
+
+Term Project: **Off-Policy Deep Reinforcement Learning without Exploration** Reproduction & Experimentation (35%)
+
+Final Score: A+
