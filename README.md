@@ -1,5 +1,5 @@
 # About this course
-Reinforcement Learning 強化學習原理
+Reinforcement Learning 強化學習原理, 謝秉均
 
 2024 Spring
 
